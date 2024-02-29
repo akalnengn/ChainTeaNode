@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akalnengn/chainteanode.git"
+    "url": "https://github.com/akalnengn/chainteanode.git"
   },
   "keywords": [
     "ethereum",
@@ -23,7 +23,7 @@
     "smart contracts",
     "dapps"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "akalnengn@tgmail.com",
   "license": "MIT",
   "homepage": "https://github.com/akalnengn/chainteanode#readme",
   "dependencies": {
