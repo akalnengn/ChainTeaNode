@@ -1,4 +1,31 @@
 {
+  "name": "chainteanode",
+  "version": "1.0.0",
+  "description": "A Node.js library for seamless Ethereum blockchain interaction, facilitating tasks like balance checks, transactions, and more with ease.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha --timeout 10000 tests/*.test.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akalnengn/chainteanode.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "web3",
+    "ethereumjs",
+    "nodejs",
+    "cryptocurrency",
+    "API",
+    "smart contracts",
+    "dapps"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/akalnengn/chainteanode#readme",
   "dependencies": {
     "bignumber.js": "^9.1.2",
     "body-parser": "^1.20.2",
