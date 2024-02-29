@@ -80,6 +80,8 @@ require('dotenv').config();
 Now, you can access the environment variables anywhere in your application using 
 `process.env.VARIABLE_NAME` , for example, `process.env.INFURA_PROJECT_ID`.
 
+```
+
 ## Important Note
 Never commit your .env file to your version control system. This file contains sensitive information that should not be shared publicly. Make sure to add .env to your .gitignore file to prevent it from being uploaded to your repository.
 
