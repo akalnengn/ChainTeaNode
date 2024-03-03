@@ -1,6 +1,6 @@
 {
   "name": "chainteanode",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Node.js library for seamless Ethereum blockchain interaction, facilitating tasks like balance checks, transactions, and more with ease.",
   "main": "src/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akalnengn/chainteanode.git"
+    "url": "https://github.com/akalnengn/chainteanode"
   },
   "keywords": [
     "ethereum",
